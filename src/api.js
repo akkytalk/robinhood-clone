@@ -1,5 +1,5 @@
 import axios from "axios";
 
-const key = "cae9bcaad3id9vu6nmc0";
+const key = "caebqviad3i9ra0qs210";
 
 export { key };
